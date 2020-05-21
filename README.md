@@ -18,7 +18,7 @@ If it is our responsibility to accompany them in this transition, it is up to th
 Such issues are part of the more open questions about international rights of the youth. 
 A report of the  WHO and UNICEF Lancet commission, published in February 2020 and entitled "A Future for the World's Children?", explains how the health of children all over the world is at risk due to pollution, climate change and chronic diseases linked to stress, addiction and over-consumption. It calls for a rewriting of the 17 Sustainable Development Goals (SDGs), including the fourth one, access to quality education as a children's right.
 
-Defending a right to education
+#Defending a right to education
 
 On the occasion of the Covid-19 crisis, which reveals and amplifies inequalities in learning, and which UNICEF fears could become a crisis of children's rights, we should underline that education is a right of prime necessity for young people, including the right to imagine and co-construct its outlines.
 
