@@ -1,4 +1,4 @@
-#LearningAfter
+#Rentreedapres
 
 Pour l'extraordinaire année académique 2020-2021 : Inviter les apprenants à repenser leurs droits et leur éducation dans le monde d'après
 
